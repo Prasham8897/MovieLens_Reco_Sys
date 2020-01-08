@@ -65,3 +65,6 @@ Because of our business rule (explained in the beginning), we might end up not r
 There are two types of coverage that we have found -
 1. User coverage = The number of users that we are recommending 10 movies / The total number of users in our sample.
 2. Catalogue coverage(items) = The number of unique movies recommended to all users / The total number of movies in our sample.
+
+#### CONTRIBUTORS
+Prasham Sheth | Manas Dresswala | Shreyas Jadhav 
