@@ -1,0 +1,17 @@
+Libraries required:
+- os
+- pandas
+- itertools
+- datetime
+- numpy
+- matplotlib
+- math
+- sys
+- operator
+- pyspark
+- findspark
+- pickle
+- scipy
+- sklearn
+
+The dataset can be downloaded from "". After downloading you need extract files from the zipped folder and upload it on your Google Drive as the notebooks were developed using Google Colab and set to work for the path as mentioned in them.
