@@ -1,5 +1,3 @@
-# project-1-Reco_Sys_Basics
-
 # Contents
 1. Baseline.ipynb - This python notebook contains the preminilary analysis of our data and our baseline model that we would be using for the rest of the project. 
 2. Requirements.txt - This file contains the libraries that are required to run our project and also mentions other requirements needed to keep in mind before running the project. 
